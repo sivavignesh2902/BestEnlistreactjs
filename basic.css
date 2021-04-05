@@ -1,0 +1,7 @@
+#contentimage,#main{
+    text-align: center;    
+}
+#image{
+    border-radius: 5%;
+    box-shadow: 0px 25px 25px #000000; 
+}
